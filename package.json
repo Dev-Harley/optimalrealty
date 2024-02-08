@@ -1,0 +1,14 @@
+{
+  "name": "Buy Luxury Builder Floor In Gurgoan ",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./*.html ",
+    "build": "parcel build ./*.html  --dist-dir ./build"
+  },
+  "author": "Kuldeep",
+  "license": "Optimal Realty",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
